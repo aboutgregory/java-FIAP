@@ -19,8 +19,7 @@ public class Aluno {
 
     //Métodos
     //Método para aumentar a média final do aluno
-    void aumentarNota(float porcentagem){
-        CP1 * porcentagem/10 + challenge + CP2
+
 
 
 
